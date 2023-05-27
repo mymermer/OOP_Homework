@@ -1,0 +1,16 @@
+object | method
+university_array[3] | evaluate_student(student3)
+student3 | getGPA()
+student3 | getGre()
+student3 | getToefl()
+student3 | getName()
+student3 | plus1NumOfApp()
+student4 | ~Student()
+student3 | ~Student()
+student2 | ~Student()
+student1 | ~Student()
+university_array[3] | ~University()
+university_array[2] | ~University()
+university_array[1] | ~University()
+university_array[0] | ~University()
+
